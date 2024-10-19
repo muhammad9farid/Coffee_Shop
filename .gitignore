@@ -31,3 +31,45 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Flutter/Dart related files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# IDE related files
+.idea/
+*.iml
+
+# Generated files
+build/
+android/app/debug/
+android/app/profile/
+android/app/release/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app_framework_info.plist
+ios/Flutter/engine/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.podspec
+macos/Flutter/ephemeral/
+
+# Personal files
+*.swp
+*.swo
+*~ 
+
+# Miscellaneous
+*.log
+*.tmp
+*.lock
+.DS_Store
+
+# Package files
+packages/
